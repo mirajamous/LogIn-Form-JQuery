@@ -67,4 +67,4 @@ Here are some screenshots of the form:
 ![Form 5](img/form5.png) 
 ![Form 6](img/form6.png) 
 ![Form 7](img/form7.png)
-![Form 8](img/form7.png)
+![Form 8](img/form8.png)
