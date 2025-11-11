@@ -53,3 +53,15 @@ This form uses the jQuery Validation Plugin to ensure:
     * Includes at least one digit
 
     * Contains at least one special character
+
+    ---
+
+    ## Preview
+
+Here are some screenshots of the form:
+
+| ![Form 1](img/form1.png) | ![Form 2](img/form2.png) | ![Form 3](img/form3.png) |
+|:----------------------------:|:----------------------------:|:----------------------------:|
+| ![Form 4](img/form4.png) | ![Form 5](img/form5.png) | ![Form 6](img/form6.png) |
+
+![img 7](images/form7.png)
