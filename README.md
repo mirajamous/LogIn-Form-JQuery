@@ -28,7 +28,7 @@ A simple and stylish **login form** with validation using **jQuery** and **jQuer
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/FormJQuery.git
+   git clone https://github.com/mirajamous/LogIn-Form-JQuery.git
 
 2. Open the project folder:
 
