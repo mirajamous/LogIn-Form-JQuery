@@ -22,7 +22,7 @@ A simple and stylish **login form** with validation using **jQuery** and **jQuer
 
 ---
 
----
+
 
 ##  How to Run Locally
 
@@ -32,9 +32,11 @@ A simple and stylish **login form** with validation using **jQuery** and **jQuer
 
 2. Open the project folder:
 
-    cd FormJQuery
+    cd LogIn-Form-JQuery
 
 3. Open index.html in your browser.
+
+---
 
  Validation Logic
 
