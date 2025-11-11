@@ -1,10 +1,9 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width">
   <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
-  <link rel="stylesheet" href="style.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
   <script src="https://cdn.jsdelivr.net/jquery.validation/1.16.0/jquery.validate.min.js"></script>
   <title>Form validation by jQuery</title>
@@ -12,33 +11,33 @@
 <body>
   
 <div class="formDiv">
-  
-    <form action="" id="loginForm">
-      <h1>Login</h1>
-      <div class="inputForm">
-        <input type="text" id="email" name="email" placeholder="Your email..." required>
-        <i class='bx bxs-user'></i>
-        <label for="email" class="error" id="emailError"></label><br><br>
-      </div>
+    
+  <form action="" id="loginForm">
+    <h1>Login</h1>
+    <div class="inputForm">
+      <input type="text" id="email" name="email" placeholder="Your email..." required>
+      <i class='bx bxs-user'></i>
+      <label for="email" class="error" id="emailError"></label><br><br>
+    </div>
       
-      <div class="inputForm">
-        <input type="password" id="password" name="password" placeholder="Your password..." required /> 
-        <i class='bx bxs-lock-alt'></i>
-        <label for="password" class="error" id="pwdError"></label><br><br>
-      </div>
+    <div class="inputForm">
+      <input type="password" id="password" name="password" placeholder="Your password..." required /> 
+      <i class='bx bxs-lock-alt'></i>
+      <label for="password" class="error" id="pwdError"></label><br><br>
+    </div>
       
-      <div class="rememberMe">
-        <label>
-          <input type="checkBox">
-          Remember me
-        </label>
-        <a href="#">Forgot password?</a> 
-      </div>
+    <div class="rememberMe">
+      <label>
+        <input type="checkBox">
+        Remember me
+      </label>
+      <a href="#">Forgot password?</a> 
+    </div>
       
-      <button type="submit" id ="btnSubmit" class="btnSubmit">Login</button>
-    </form>
-  </div>
+    <button type="submit" id ="btnSubmit" class="btnSubmit">Login</button>
+  </form>
+    
+</div>
 
-<script src="index.js"></script>
 </body>
 </html>
