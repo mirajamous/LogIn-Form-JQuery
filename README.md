@@ -1,10 +1,10 @@
-# FormJQuery 🪄
+# FormJQuery 
 
 A simple and stylish **login form** with validation using **jQuery** and **jQuery Validation Plugin**.
 
 ---
 
-## 🚀 Features
+##  Features
 - Email and password validation using jQuery
 - Password rules (length, uppercase, lowercase, number, special character)
 - Beautiful glass-style UI design
@@ -13,7 +13,7 @@ A simple and stylish **login form** with validation using **jQuery** and **jQuer
 
 ---
 
-## 🧩 Technologies Used
+##  Technologies Used
 - **HTML5**
 - **CSS3**
 - **jQuery 3.7.1**
@@ -24,7 +24,7 @@ A simple and stylish **login form** with validation using **jQuery** and **jQuer
 
 ---
 
-## ⚙️ How to Run Locally
+##  How to Run Locally
 
 1. Clone the repository:
    ```bash
@@ -36,7 +36,7 @@ A simple and stylish **login form** with validation using **jQuery** and **jQuer
 
 3. Open index.html in your browser.
 
-🧠 Validation Logic
+ Validation Logic
 
 This form uses the jQuery Validation Plugin to ensure:
 
